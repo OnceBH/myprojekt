@@ -1,0 +1,7 @@
+body {margin: 0px; text-align: center;}
+table, th, td { margin-right: auto; margin-left: auto;}
+th {width: 200px; height: 200px; margin: 10px;}
+td {text-align: center;}
+img {width: 200px; height: 200px; border-radius: 50%;}
+p {display: inline;}
+.container {background-color: #9abd1c;}
